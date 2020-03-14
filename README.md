@@ -18,3 +18,6 @@ and
 
 I suspect that as the case count grows, we will stop getting individualized information
 about each of the cases.
+
+NOTE: On 13 March 2020, BC CDC released aggregated information about the patients, 
+but not about the individuals.  We do not know case number, age, or gender after case #53.
