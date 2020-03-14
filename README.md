@@ -1,4 +1,4 @@
-# BC COVID-19 Case Data
+# British Columbia COVID-19 Case Data
 
 This repository holds data on the patients in British Columbia found to have  COVID-19.
 
