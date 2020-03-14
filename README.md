@@ -21,4 +21,4 @@ about each of the cases.
 
 NOTE: On 13 March 2020, BC CDC started releasing *aggregated* information about
 the patients, but not about the individuals.  
-We do not know case number, age, or gender after case #53.
+We do not know case number, age, gender, or health region after case #53.
