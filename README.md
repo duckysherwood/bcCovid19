@@ -19,6 +19,24 @@ and
 I suspect that as the case count grows, we will stop getting individualized information
 about each of the cases.
 
-NOTE: On 13 March 2020, BC CDC started releasing *aggregated* information about
+# Notes
+On 13 March 2020, BC CDC started releasing *aggregated* information about
 the patients, but not about the individuals.  
 We do not know case number, age, gender, or health region after case #53.
+
+Cases #48 and #49 were originally said to be staff at both Hollyburn and Lynn
+Valley; on 14 March, Dr. Henry corrected that to say that only one was at Hollyburn,
+and the other was only Lynn Valley.  However, she did not clarify if it was case #48
+or case #49.  I have arbitrarily chosen to say that case #48 was Lynn Valley only.
+
+Also on 14 March, Dr. Henry reclassified two of the Vancouver Health patients
+as Northern Health patients.  They work in the Coastal Health region but live in 
+Northern Health region.
+
+On 16 March, Dr. Henry mentioned that there are a number of residents at the Lynn Valley
+Care Home who have tested positive, and that four Lynn Valley residents have died.
+I only see four Lynn Valley residents total who tested positive, so I don't know if
+those other residents tested positive over the weekend or if there were some which 
+were not correctly categorized.
+
+
