@@ -33,6 +33,11 @@ Also on 14 March, Dr. Henry reclassified two of the Vancouver Health patients
 as Northern Health patients.  They work in the Coastal Health region but live in 
 Northern Health region.
 
+On 16 March, there were 30 cases announced, but there was no press conference yesterday,
+so it LOOKS like there were no cases on Sunday and a bunch on Monday.  I thought about
+putting half of the cases on Sunday and half on Monday, but that doesn't seem honest
+either.
+
 On 16 March, Dr. Henry mentioned that there are a number of residents at the Lynn Valley
 Care Home who have tested positive, and that four Lynn Valley residents have died.
 I only see four Lynn Valley residents total who tested positive, so I don't know if
