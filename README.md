@@ -44,4 +44,11 @@ I only see four Lynn Valley residents total who tested positive, so I don't know
 those other residents tested positive over the weekend or if there were some which 
 were not correctly categorized.
 
+Starting on 16 March, they are not giving breakouts on individual cases, so I will not
+continue to update cases.csv.
 
+On 17 March, I renamed 'deaths' and 'recovered' to 'new deaths' and 'newly recovered'
+to make it more clear.
+
+On 17 March, I dropped the columns for where the new cases were because everybody's 
+got it.
