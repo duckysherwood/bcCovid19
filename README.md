@@ -52,3 +52,5 @@ to make it more clear.
 
 On 17 March, I dropped the columns for where the new cases were because everybody's 
 got it.
+
+On 20 March, I added a column for the number in hospital.
