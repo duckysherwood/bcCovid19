@@ -54,3 +54,7 @@ On 17 March, I dropped the columns for where the new cases were because everybod
 got it.
 
 On 20 March, I added a column for the number in hospital.
+
+On 21 March, at today's press conference, they said there were 74 new cases, but the press release said 76.
+Maybe two more were discovered between the press conference and when the press release
+was posted?
